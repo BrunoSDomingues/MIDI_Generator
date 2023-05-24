@@ -1,13 +1,9 @@
 # MIDI Generator
 
-A WaveNet implementation to generate classical music from MIDI files.
+A WaveNet implementation to generate classical music from MIDI files. All code can be found inside the jupyter notebook file, alongside an in-depth explanation of the project.
 
-Datasets can be found [here](http://www.piano-midi.de/midis.htm).
+## Sources
 
-## Chopin
-
-Direct download link can be found [here](http://www.piano-midi.de/zip/chopin.zip).
-
-## Schumann
-
-Direct download link can be found [here](http://www.piano-midi.de/zip/schumann.zip).
+* [Datasets](http://www.piano-midi.de/midis.htm)
+* [chopin.zip](http://www.piano-midi.de/zip/chopin.zip)
+* [schumann.zip](http://www.piano-midi.de/zip/schumann.zip)
